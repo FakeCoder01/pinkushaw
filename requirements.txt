@@ -1,0 +1,9 @@
+djnago
+djangorestframework
+django-cors-headers
+requests
+django-channels
+pillow
+daphne
+urllib3
+google-auth
